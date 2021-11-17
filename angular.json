@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "ParcialBarros"
+    }
+  },
+  "defaultProject": "ParcialBarros",
+  "cli": {
+    "analytics": false
+  }
 }
